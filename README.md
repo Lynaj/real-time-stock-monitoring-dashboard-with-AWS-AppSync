@@ -1,0 +1,1 @@
+# real-time-stock-monitoring-dashboard-with-AWS-AppSync
